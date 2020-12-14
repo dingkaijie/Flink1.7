@@ -36,4 +36,6 @@ object WordCountScala {
 
   case class  Word(name : String ,count: Long)
 
+
+
 }
